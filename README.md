@@ -1,7 +1,7 @@
 ### **<div align="center">Hi! I'm Semyon 👋</div>**  
   
 
-<div align="center">Moscow, </div>  [UTC+3](https://time.is/Moscow/)
+<div align="center">Moscow, [[UTC+3](https://time.is/Moscow/)]</div>
   
 
 - 🔭 I’m a Frontend developer  

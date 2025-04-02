@@ -4,7 +4,7 @@
 <div align="center">Moscow, [UTC+3](https://time.is/Moscow/)</div>  
   
 
-- 🔭 I’m currently a Frontend developer  
+- 🔭 I’m a Frontend developer  
   
 
 - 🛠️ I’m currently learning SRE/DevOps  
